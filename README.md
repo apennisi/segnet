@@ -1,2 +1,2 @@
-# resnet
-Resnet network
+# SegNet
+SegNet network
